@@ -51,4 +51,9 @@ An interactive React page visualizing:
 ---
 
 ## 🧠 Architecture
+User Query → FastAPI → LangChain → Pinecone (Vector DB)
+     ↓                                ↓
+   FLAN-T5 (description)         SentenceTransformer (embeddings)
+     ↓                                ↓
+  React Frontend ← Axios ← FastAPI JSON Response
 
