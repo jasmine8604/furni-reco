@@ -1,0 +1,46 @@
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background: #fafafa;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1b1f3b;
+  color: white;
+  padding: 15px 30px;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  padding: 40px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #1b1f3b;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #3b3f7b;
+}
