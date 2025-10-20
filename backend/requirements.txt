@@ -1,9 +1,11 @@
 fastapi
 uvicorn
 sentence-transformers
+transformers==4.40.2
 pinecone-client
 python-dotenv
 tqdm
 pandas
-transformers
-torch
+scikit-learn
+torch==2.3.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
