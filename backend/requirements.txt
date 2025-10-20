@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+pinecone-client
+python-dotenv
+tqdm
+pandas
+transformers
+torch
