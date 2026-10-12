@@ -1,17 +1,17 @@
-# 🪑 AI Furniture Recommendation System
+# AI Furniture Recommendation System
 
 ### An ML-powered web app that recommends furniture products, generates creative AI descriptions, and provides interactive analytics — built using **FastAPI**, **React**, **LangChain**, **Pinecone**, and **FLAN-T5**.
 
 ---
 
-## 🌟 Overview
+## Overview
 
 This project is an **end-to-end AI-driven recommendation platform** for furniture items.  
 It combines Machine Learning, NLP, Computer Vision, and Generative AI to deliver smart product suggestions, semantic search, and data insights — all through a simple web interface.
 
 ---
 
-## 🧩 Features
+## Features
 
 ### 🔹 Product Recommendation
 Recommends furniture items based on natural-language queries such as:
@@ -35,7 +35,7 @@ An interactive React page visualizing:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-------------|
